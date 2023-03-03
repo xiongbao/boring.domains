@@ -1,0 +1,18 @@
+<svg width="98" height="97" xmlns="http://www.w3.org/2000/svg"><g transform="translate(.38)" fill="none" fill-rule="evenodd"><circle class="fill-black" fill="#03081A" cx="48.5" cy="48.5" r="48.5"/><g class="fill-white" transform="translate(19.587 30.779)" fill="#FFF"><circle cx="8.861" cy="8.861" r="8.861"/><circle cx="48.966" cy="8.861" r="8.861"/></g><rect class="fill-white" fill="#FFF" x="32.644" y="67.154" width="32.644" height="7.462" rx="3.731"/></g>
+<style>
+    .fill-black {
+        fill: #03081A;
+    }
+    .fill-white {
+        fill: white
+    }
+    @media (prefers-color-scheme: dark) {
+        .fill-black {
+            fill: white;
+        }
+        .fill-white {
+            fill: #03081A
+        }
+    }
+</style>
+</svg>

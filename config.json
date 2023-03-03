@@ -1,0 +1,100 @@
+{
+  "name": "Boring Domains",
+  "domain": "boring.domains",
+  "description": "人若吃太饱，就会很无聊",
+  "keywords": "domain, domains, boring domains, useless domains",
+  "logo": "boring.studio.ico.svg",
+  "domains": [
+      {
+          "name": "fanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfanfan.fan",
+          "description": "烦",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "funfunfunfunfunfunfunfunfunfunfunfunfunfunfunfunfunfunfunfunfun.fun",
+          "description": "喜",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "dogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdog.dog",
+          "description": "狗",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "catcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcat.cat",
+          "description": "猫",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "petpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpet.pet",
+          "description": "宠",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "renrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenren.ren",
+          "description": "人",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "runrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrun.run",
+          "description": "跑",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "moemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoe.moe",
+          "description": "萌",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "boobooboobooboobooboobooboobooboobooboobooboobooboobooboobooboo.boo",
+          "description": "嘣",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      },
+      {
+          "name": "monstermonstermonstermonstermonstermonstermonstermonstermonster.monster",
+          "description": "兽",
+          "owner": "熊宝",
+          "ownerUrl": "https://xio.ng/"
+      }
+  ],
+  "tools": [
+      {
+          "name": "63.do",
+          "description": "A domain tool, Solve the problem that long domain name URLs are difficult to input.",
+          "img": "63.do.png",
+          "url": "https://63.do/"
+      },
+      {
+          "name": "acme.sh",
+          "description": "A pure Unix shell script implementing ACME client protocol.<br>The Common Name field in certificates is limited to 64 characters, So we need to use acme.sh to request a multi-domain certificate.",
+          "img": "acme.sh.png",
+          "url": "https://acme.sh/"
+      }
+  ],
+  "links": [
+      {
+          "name": "Boring Studio",
+          "url": "https://boring.studio/",
+          "description": "无聊工作室"
+      },
+      {
+          "name": "CNM.BA",
+          "url": "https://cnm.ba/",
+          "description": "一个充满爱意的导航"
+      },
+      {
+          "name": "目标",
+          "url": "https://mubi.ao/",
+          "description": "个人阶段性目标"
+      }
+  ]
+}
