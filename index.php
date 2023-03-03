@@ -10,7 +10,7 @@ $siteName = $data['name'];
 $siteDescription = $data['description'];
 $siteKeywords = $data['keywords'];
 $siteLogo = $data['logo'];
-$initialSlide = 1;
+$initialSlide = 0;
 ?>
 <!doctype html>
 <html>
