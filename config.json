@@ -95,6 +95,11 @@
           "name": "目标",
           "url": "https://mubi.ao/",
           "description": "个人阶段性目标"
+      },
+      {
+          "name": "骚人",
+          "url": "https://sao.ren/",
+          "description": "一个生就很骚的人"
       }
   ]
 }
