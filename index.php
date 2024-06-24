@@ -524,14 +524,6 @@ echo $linksHtml
     }
   });
 </script>
-<script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?15d8b1a53514a8a458e8d36c40ad1e14";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-  })();
-</script>
+<script defer src="https://fang.ke/sb" data-website-id="9324a9ac-96e7-40e7-bdd7-ed90c1491701"></script>
 </body>
 </html>

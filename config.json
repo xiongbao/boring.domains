@@ -18,24 +18,6 @@
           "ownerUrl": "https://xio.ng/"
       },
       {
-          "name": "dogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdog.dog",
-          "description": "狗",
-          "owner": "熊宝",
-          "ownerUrl": "https://xio.ng/"
-      },
-      {
-          "name": "catcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcatcat.cat",
-          "description": "猫",
-          "owner": "熊宝",
-          "ownerUrl": "https://xio.ng/"
-      },
-      {
-          "name": "petpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpetpet.pet",
-          "description": "宠",
-          "owner": "熊宝",
-          "ownerUrl": "https://xio.ng/"
-      },
-      {
           "name": "renrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenrenren.ren",
           "description": "人",
           "owner": "熊宝",
@@ -44,12 +26,6 @@
       {
           "name": "runrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrunrun.run",
           "description": "跑",
-          "owner": "熊宝",
-          "ownerUrl": "https://xio.ng/"
-      },
-      {
-          "name": "monstermonstermonstermonstermonstermonstermonstermonstermonster.monster",
-          "description": "兽",
           "owner": "熊宝",
           "ownerUrl": "https://xio.ng/"
       }
