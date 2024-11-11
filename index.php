@@ -415,6 +415,9 @@ foreach($data['domains'] as $index => $subdata) {
   $domainItemArr = array_reverse(explode('.', $domainItemName));
   $domainItemSub = $domainItemArr[1];
   $domainItemExt = $domainItemArr[0];
+  if ($domainItemExt == 'ss') {
+    $domainItemExt = 'sss';
+  }
   if( $domainItemExt == $domainExt ) {
     $initialSlide = $index;
   };
